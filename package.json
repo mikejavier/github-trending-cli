@@ -1,6 +1,6 @@
 {
   "name": "github-trending-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI for list Github trending repositories.",
   "main": "github-trending.js",
   "scripts": {
