@@ -1,0 +1,29 @@
+{
+  "name": "github-trending-cli",
+  "version": "1.0.0",
+  "description": "CLI for list Github trending repositories.",
+  "main": "github-trending.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "ght": "./bin/ght.js"
+  },
+  "keywords": [],
+  "author": "Michael Santillan",
+  "license": "MIT",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "commander": "^2.17.1",
+    "trending-github": "^1.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikejavier/github-trending-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mikejavier/github-trending-cli/issues"
+  },
+  "homepage": "https://github.com/mikejavier/github-trending-cli#readme"
+}
